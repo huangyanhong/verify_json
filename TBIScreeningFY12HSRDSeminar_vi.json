@@ -1,0 +1,313 @@
+[
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Evaluated",
+        "DataValue":  "55070.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Irritability, easily annoyed: Moderate to Severe",
+        "DataValue":  "45389.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Irritability, easily annoyed: Mild",
+        "DataValue":  "6282.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Irritability, easily annoyed: None",
+        "DataValue":  "2299.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Sleep disturbance: Moderate to Severe",
+        "DataValue":  "44920.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Sleep disturbance: Mild",
+        "DataValue":  "5233.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Sleep disturbance: None",
+        "DataValue":  "4917.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Forgetfulness: Moderate to Severe",
+        "DataValue":  "42441.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Forgetfulness: Mild",
+        "DataValue":  "8071.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Forgetfulness: None",
+        "DataValue":  "4558.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Anxious or tense: Moderate to Severe",
+        "DataValue":  "42284.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Anxious or tense: Mild",
+        "DataValue":  "7502.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Anxious or tense: None",
+        "DataValue":  "5284.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Headaches: Moderate to Severe",
+        "DataValue":  "39762.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Headaches: Mild",
+        "DataValue":  "9914.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Headaches: None",
+        "DataValue":  "5394.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Poor concentration: Moderate to Severe",
+        "DataValue":  "38851.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Poor concentration: Mild",
+        "DataValue":  "9472.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Poor concentration: None",
+        "DataValue":  "6747.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Poor frustration tolerance, easily overwhelmed: Moderate to Severe",
+        "DataValue":  "39251.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Poor frustration tolerance, easily overwhelmed: Mild",
+        "DataValue":  "8737.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Poor frustration tolerance, easily overwhelmed: None",
+        "DataValue":  "7082.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Fatigue: Moderate to Severe",
+        "DataValue":  "35952.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Fatigue: Mild",
+        "DataValue":  "10181.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Fatigue: None",
+        "DataValue":  "8937.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Hearing difficulty: Moderate to Severe",
+        "DataValue":  "33522.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Hearing difficulty: Mild",
+        "DataValue":  "11537.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Hearing difficulty: None",
+        "DataValue":  "10011.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Depressed or sad: Moderate to Severe",
+        "DataValue":  "33223.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Depressed or sad: Mild",
+        "DataValue":  "10750.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Depressed or sad: None",
+        "DataValue":  "11097.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Slowed thinking, difficulty organizing, difficulty finishing things: Moderate to Severe",
+        "DataValue":  "32289.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Slowed thinking, difficulty organizing, difficulty finishing things: Mild",
+        "DataValue":  "11381.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Slowed thinking, difficulty organizing, difficulty finishing things: None",
+        "DataValue":  "11400.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Sensitivity to noise: Moderate to Severe",
+        "DataValue":  "30034.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Sensitivity to noise: Mild",
+        "DataValue":  "10983.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Sensitivity to noise: None",
+        "DataValue":  "14053.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Sensitivity to light: Moderate to Severe",
+        "DataValue":  "27867.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Sensitivity to light: Mild",
+        "DataValue":  "12298.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Sensitivity to light: None",
+        "DataValue":  "14905.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Difficulty making decisions: Moderate to Severe",
+        "DataValue":  "27877.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Difficulty making decisions: Mild",
+        "DataValue":  "11615.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Difficulty making decisions: None",
+        "DataValue":  "15578.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Numbness of tingling in parts of body: Moderate to Severe",
+        "DataValue":  "25921.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Numbness of tingling in parts of body: Mild",
+        "DataValue":  "11922.00"
+    },
+    {
+        "DataType":  "Postconcussive Symptoms in Last 30 Days",
+        "DataElement":  "Numbness of tingling in parts of body: None",
+        "DataValue":  "17227.00"
+    },
+    {
+        "DataType":  "VHA User Diagnosis FY2009",
+        "DataElement":  "Patients",
+        "DataValue":  "327388.00"
+    },
+    {
+        "DataType":  "VHA User Diagnosis FY2009",
+        "DataElement":  "TBI Pct",
+        "DataValue":  "6.70"
+    },
+    {
+        "DataType":  "VHA User Diagnosis FY2009",
+        "DataElement":  "Pain Pct",
+        "DataValue":  "33.60"
+    },
+    {
+        "DataType":  "VHA User Diagnosis FY2009",
+        "DataElement":  "PTSD Pct",
+        "DataValue":  "27.60"
+    },
+    {
+        "DataType":  "VHA User Diagnosis FY2010",
+        "DataElement":  "Patients",
+        "DataValue":  "398453.00"
+    },
+    {
+        "DataType":  "VHA User Diagnosis FY2010",
+        "DataElement":  "TBI Pct",
+        "DataValue":  "6.80"
+    },
+    {
+        "DataType":  "VHA User Diagnosis FY2010",
+        "DataElement":  "Pain Pct",
+        "DataValue":  "34.10"
+    },
+    {
+        "DataType":  "VHA User Diagnosis FY2010",
+        "DataElement":  "PTSD Pct",
+        "DataValue":  "27.90"
+    },
+    {
+        "DataType":  "VHA User Diagnosis FY2011",
+        "DataElement":  "Patients",
+        "DataValue":  "471383.00"
+    },
+    {
+        "DataType":  "VHA User Diagnosis FY2011",
+        "DataElement":  "TBI Pct",
+        "DataValue":  "6.50"
+    },
+    {
+        "DataType":  "VHA User Diagnosis FY2011",
+        "DataElement":  "Pain Pct",
+        "DataValue":  "33.70"
+    },
+    {
+        "DataType":  "VHA User Diagnosis FY2011",
+        "DataElement":  "PTSD Pct",
+        "DataValue":  "28.20"
+    },
+    {
+        "DataType":  "VHA User Diagnosis FY2009 to FY2011",
+        "DataElement":  "Patients",
+        "DataValue":  "613391.00"
+    },
+    {
+        "DataType":  "VHA User Diagnosis FY2009 to FY2011",
+        "DataElement":  "TBI Pct",
+        "DataValue":  "9.60"
+    },
+    {
+        "DataType":  "VHA User Diagnosis FY2009 to FY2011",
+        "DataElement":  "Pain Pct",
+        "DataValue":  "40.20"
+    },
+    {
+        "DataType":  "VHA User Diagnosis FY2009 to FY2011",
+        "DataElement":  "PTSD Pct",
+        "DataValue":  "29.30"
+    }
+]
+
